@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PushNotificationExample</string>
+
+    <!--GCM ID
+
+    Server API Key help
+
+    AIzaSyBMxVK9H-oJ6KI7z0fsOKSOJfOjysZHQ9E
+
+    Sender ID help
+
+    259018220811-->
+</resources>
